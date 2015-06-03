@@ -1,5 +1,3 @@
-var FSM = require('../lib/fsm');
-
 var configConstants = {
   dragThreshold: 10,
   swipeThreshold: 30,
